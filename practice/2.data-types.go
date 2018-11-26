@@ -2,6 +2,7 @@ package practice
 
 import "fmt"
 
+// DataTypes print common data types available in Go
 func DataTypes() {
 	fmt.Println("------------------------------------------------------------")
 	fmt.Println("|                DATA TYPES IN GO LANG                     |")
