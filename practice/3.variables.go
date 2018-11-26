@@ -11,7 +11,7 @@ func Variables() {
 	var name string
 	name = "Dat"
 	// Second way
-	var age int = 23
+	var age = 23
 	// Third way
 	hometown := "Hanoi"
 
