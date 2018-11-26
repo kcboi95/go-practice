@@ -1,2 +1,2 @@
-# go-pratice
+# Go practice
 My experiences with Golang
