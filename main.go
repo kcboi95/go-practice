@@ -9,4 +9,5 @@ func main() {
 	practice.DataTypes()
 	practice.Variables()
 	practice.Constants()
+	practice.DecisionMaking()
 }
