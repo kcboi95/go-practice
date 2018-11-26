@@ -8,4 +8,5 @@ func main() {
 	practice.HelloWorld()
 	practice.DataTypes()
 	practice.Variables()
+	practice.Constants()
 }
