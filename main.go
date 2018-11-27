@@ -10,4 +10,5 @@ func main() {
 	practice.Variables()
 	practice.Constants()
 	practice.DecisionMaking()
+	practice.Loop()
 }
