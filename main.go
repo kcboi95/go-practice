@@ -19,6 +19,7 @@ func main() {
 		fmt.Println("6 . Loop")
 		fmt.Println("7 . Pointers")
 		fmt.Println("8 . Struct")
+		fmt.Println("9 . Array")
 		fmt.Print("Value:")
 
 		var value int
@@ -33,27 +34,22 @@ func main() {
 		switch value {
 		case 1:
 			practice.HelloWorld()
-
 		case 2:
 			practice.DataTypes()
-
 		case 3:
 			practice.Variables()
-
 		case 4:
 			practice.Constants()
-
 		case 5:
 			practice.DecisionMaking()
-
 		case 6:
 			practice.Loop()
-
 		case 7:
 			practice.Pointers()
-
 		case 8:
 			practice.Struct()
+		case 9:
+			practice.Array()
 		}
 	}
 }
