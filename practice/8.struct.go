@@ -5,6 +5,7 @@ import (
 	"fmt"
 )
 
+// Hooman - Human
 type Hooman struct {
 	name       string
 	age        uint8
