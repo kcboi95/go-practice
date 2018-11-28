@@ -8,7 +8,7 @@ import (
 func main() {
 	for true {
 		fmt.Println("------------------------------------------------------------")
-		fmt.Println("| Plese choose one value in the list below                 |")
+		fmt.Println("| Please choose one value in the list below                |")
 		fmt.Println("| to see the result or use `Ctrl + C` to exit the program  |")
 		fmt.Println("------------------------------------------------------------")
 		fmt.Println("1 . Hello World")
