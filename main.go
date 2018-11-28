@@ -17,6 +17,7 @@ func main() {
 		fmt.Println("4 . Constants")
 		fmt.Println("5 . Decision making")
 		fmt.Println("6 . Loop")
+		fmt.Println("7 . Pointers")
 		fmt.Print("Value:")
 
 		var value int
@@ -46,5 +47,9 @@ func main() {
 
 		case 6:
 			practice.Loop()
+
+		case 7:
+			practice.Pointers()
+		}
 	}
 }
