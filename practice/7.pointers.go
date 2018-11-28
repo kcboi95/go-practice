@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-// Pointer is a function show you how to work with pointer in Go
+// Pointers is a function show you how to work with pointer in Go
 func Pointers() {
 	x := 10
 
