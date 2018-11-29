@@ -21,6 +21,7 @@ func main() {
 		fmt.Println("8 . Array")
 		fmt.Println("9 . Struct")
 		fmt.Println("10 . Interface")
+		fmt.Println("11 . Goroutine")
 		fmt.Print("Value:")
 
 		var value int
@@ -53,6 +54,8 @@ func main() {
 			practice.Struct()
 		case 10:
 			practice.Interface()
+		case 11:
+			practice.Goroutine()
 		}
 	}
 }
