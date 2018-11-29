@@ -18,8 +18,8 @@ func main() {
 		fmt.Println("5 . Decision making")
 		fmt.Println("6 . Loop")
 		fmt.Println("7 . Pointers")
-		fmt.Println("8 . Struct")
-		fmt.Println("9 . Array")
+		fmt.Println("8 . Array")
+		fmt.Println("9 . Struct")
 		fmt.Print("Value:")
 
 		var value int
@@ -47,9 +47,9 @@ func main() {
 		case 7:
 			practice.Pointers()
 		case 8:
-			practice.Struct()
-		case 9:
 			practice.Array()
+		case 9:
+			practice.Struct()
 		}
 	}
 }
