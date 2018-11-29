@@ -20,6 +20,7 @@ func main() {
 		fmt.Println("7 . Pointers")
 		fmt.Println("8 . Array")
 		fmt.Println("9 . Struct")
+		fmt.Println("10 . Interface")
 		fmt.Print("Value:")
 
 		var value int
@@ -50,6 +51,8 @@ func main() {
 			practice.Array()
 		case 9:
 			practice.Struct()
+		case 10:
+			practice.Interface()
 		}
 	}
 }
